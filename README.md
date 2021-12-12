@@ -3,6 +3,9 @@
 # Ropefall was a SketchUp plugin to model ropes, cables, wires. 
 The algorithm uses physics simulation of a rope falling to bottom, stopped by obstacles on the way falling down. In this repository you find the source code of it.
 
+[![Ropefall video](https://img.youtube.com/vi/jsuev-g-Xg0/0.jpg)](https://www.youtube.com/watch?v=jsuev-g-Xg0)
+
+
 Let\'s see how Ropefall works:
 
 ![](assets/simple_allthree.jpg)
